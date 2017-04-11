@@ -24,7 +24,7 @@ current number of TILs and display the result in the command tray.
 
 ## About
 
-I learned about this and copied the format from [jbranchaud/til](https://github.com/jbranchaud/til)
+I learned about this and copied the format from [kepford](https://github.com/kepford)
 
 ## Other TIL Collections
 
@@ -35,7 +35,7 @@ I learned about this and copied the format from [jbranchaud/til](https://github.
 
 ## License
 
-&copy; 2017 Bob Kepford
+&copy; 2017 Ryan Gibson
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
